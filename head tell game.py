@@ -48,7 +48,7 @@ else:
 
 
 
-# You will have to install project and twister to run this head tell game.
+# You will need  project and twister to run this head tell game.
 
 
 
